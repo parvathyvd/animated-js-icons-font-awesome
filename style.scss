@@ -1,0 +1,19 @@
+body{
+    background: azure;
+    margin: 3rem auto;
+}
+
+.wrapper{
+    display: flex;
+    padding: 4rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa{
+    display: block;
+    margin-left: 1rem;
+    color: salmon;
+    padding: 5rem;
+    font-size: 3rem;
+}
